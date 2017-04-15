@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang= "es">
+<head>
+	<meta charset="UTF-8">
+	<meta content= "alejandra morales" name="author">
+	<meta content="practica sitio web" name="description">
+	<meta content= "UNAD, diseño web, html" name="keywords"	
+	<tittle> hangout 8 abril </tittle>
+	<link rel="stylesheet" href="css/style.css">
+	
+</head>
+
+<body>	
+	<div id ="contenedor">
+		<header>
+			<img src="img/header.png" alt="header">
+		</header>
+	
+	<nav>
+		<ul>
+		<li> <a href= "index.html" >Inicio</a> </li>
+		<li> <a href="http:-//unad.edu.co" >UNAD </a> </li>
+	    <li> <a href="" >Multimedia</a> </li>
+	    <li> <a href="" >Actividades</a> </li>
+	    </ul> 
+</body>

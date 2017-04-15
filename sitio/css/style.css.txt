@@ -1,0 +1,8 @@
+#contenedor {
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+
+}
